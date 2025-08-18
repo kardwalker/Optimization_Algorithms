@@ -1,0 +1,17 @@
+https://web.stanford.edu/class/ee364b/lectures.html
+https://web.stanford.edu/class/ee364a/
+The book "Numerical optimization" by Nocedal and Wright is definitely one of the best introductory textbooks for nonlinear programming.
+https://www.solvermax.com/component/tags/tag/textbooks
+
+Two free books:
+
+Algorithms for Decision Making
+
+Algorithms for Optimization
+
+https://algorithmsbook.com/
+
+
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781119454816#aboutBook-pane
+
+
