@@ -2,7 +2,7 @@
 
 # function shoud be unimodal and continuous in given range
 
-def exhaustive_search(func, low : int | float, high : int | float, step : int | float = 10):
+def exhaustive_search(func, low : int | float, high : int | float, step : int | float = 10 ,increment : float = None):
     """
     args:
         func: function to be optimized

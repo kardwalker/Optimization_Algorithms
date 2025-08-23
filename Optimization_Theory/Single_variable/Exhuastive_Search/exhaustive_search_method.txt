@@ -1,0 +1,13 @@
+Optimum of function is bracketed by calculating function
+values at number of equally spaced points
+
+Assumption function is unimodal
+
+Search begins from lower bound and three consceutive function values
+are compared based on unimodality
+
+Based on the comparsion, Search is  either terminated or continued
+by replacing one of the three points with a new points
+
+
+continue the process till minimum is achieved

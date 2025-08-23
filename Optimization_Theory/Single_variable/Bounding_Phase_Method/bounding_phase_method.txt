@@ -1,0 +1,5 @@
+Algo begins with an initial guess, finds a search direction based
+on two or more function evaluations in vicinity of initial guess
+
+after this, an exponential search strategy is adpoted to reach Optimum
+Faster than exhaustive search method
